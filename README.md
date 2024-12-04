@@ -1,20 +1,3 @@
-<h1 align="center">ASSALAM-O-ALAIKUM, I'm Wania Sarfaraz</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
-
-- 🔭 I’m currently working on **Job Fair Application (Focus on backend API development with Django for role-based job management)**
-
-- 🌱 I’m currently learning **Docker, Kubernetes, and AWS for cloud deployment (To improve my backend deployment and scalability skills)**
-
-- 👯 I’m looking to collaborate on **Open-source projects related to Python/Django/Flask (Specifically interested in backend architecture and API integrations)**
-
-- 🤝 I’m looking for help with **(Mentorship on scaling backend systems for high traffic applications)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/wania0](https://github.com/wania0)
-
-- 💬 Ask me about **html, css, bootstrap, python, flask, django, mysql and oracle**
-
-- 📫 How to reach me **waniasarfaraz251@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wania sarfaraz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wania sarfaraz" height="30" width="40" /></a>
