@@ -16,9 +16,6 @@ I'm a **Backend Python Developer** and a passionate learner, currently pursuing 
 ---
 
 
-
-<hr>
-
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
