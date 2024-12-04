@@ -117,5 +117,6 @@ A platform for creating, sharing, and interacting with blogs.
 
 ## 📫 How to Reach Me  
 - **Email**: waniasarfaraz251@gmail.com  
-- **GitHub**: [Wania Sarfaraz](https://github.com/wania0)  
+- **Linkedin**: [Wania Sarfaraz](https://www.linkedin.com/in/wania-sarfaraz)
+ 
 
